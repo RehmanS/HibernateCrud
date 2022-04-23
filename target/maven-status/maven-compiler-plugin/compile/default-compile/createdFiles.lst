@@ -1,0 +1,4 @@
+Main.class
+Dao\StudentDao.class
+Model\Student.class
+Util\HibernateUtil.class
